@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\liz_b\\.gradle\\daemon\\8.0\\com.example.map.app-mergeDebugResources-28:\\layout\\activity_places.xml",
+        "source": "C:\\Users\\liz_b\\.gradle\\daemon\\8.0\\com.example.map.app-main-31:\\layout\\activity_places.xml"
+    },
+    {
+        "merged": "C:\\Users\\liz_b\\.gradle\\daemon\\8.0\\com.example.map.app-mergeDebugResources-28:\\layout\\item.xml",
+        "source": "C:\\Users\\liz_b\\.gradle\\daemon\\8.0\\com.example.map.app-main-31:\\layout\\item.xml"
+    },
+    {
+        "merged": "com.example.map.app-mergeDebugResources-28:/layout/item.xml",
+        "source": "com.example.map.app-main-31:/layout/item.xml"
+    },
+    {
+        "merged": "C:\\Users\\liz_b\\.gradle\\daemon\\8.0\\com.example.map.app-mergeDebugResources-28:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\liz_b\\.gradle\\daemon\\8.0\\com.example.map.app-main-31:\\layout\\activity_maps.xml"
+    }
+]
